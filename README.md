@@ -5,7 +5,7 @@ Duración: 1.5 horas
 
 # Instrucciones: 
 
-#Parte 1: Definición de la Clase CuentaBancaria (30 minutos) 
+# Parte 1: Definición de la Clase CuentaBancaria (30 minutos) 
 - Crea una nueva clase llamada CuentaBancaria en tu entorno de desarrollo Java preferido. 
 - Define los atributos titular (nombre del titular) y saldo (saldo actual). 
 - Implementa un constructor que permita inicializar la cuenta con un titular y un saldo inicial. 
